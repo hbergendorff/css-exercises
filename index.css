@@ -10,3 +10,19 @@
 .third{
     font-size: 10px;
 }
+
+a[href$="se/"] {
+    color: green;
+}
+
+a[href*="mail"] {
+    color: grey;
+}
+
+a[href$="com/"] {
+    color: red;
+}
+
+a[href*="page"] {
+    color: blue;
+}
