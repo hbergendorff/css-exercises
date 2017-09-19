@@ -45,3 +45,11 @@ div ~ p {
 div + p {
     background: pink;
 }
+
+li {
+    list-style: lower-latin;
+}
+
+a {
+    text-decoration: none;
+}
