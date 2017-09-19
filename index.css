@@ -26,3 +26,22 @@ a[href$="com/"] {
 a[href*="page"] {
     color: blue;
 }
+h1 {
+    background-color: grey;
+}
+
+body p {
+    background-color: red;
+}
+
+div > p {
+    background-color: green;
+}
+
+div ~ p {
+    background-color: yellow;
+}
+
+div + p {
+    background: pink;
+}
