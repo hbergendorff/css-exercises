@@ -1,0 +1,33 @@
+header {
+    background-color: purple;
+    height: 50px;
+    width: 800px;
+
+}
+
+nav {
+    background-color: darkolivegreen;
+    height: 50px;
+    width: 800px;
+}
+
+main {
+    background-color: darkslateblue;
+    height: 300px;
+    width: 450px;
+    float: left;
+}
+
+aside {
+    background-color: lightblue;
+    float: left;
+    height: 300px;
+    width: 350px;
+}
+
+footer {
+    background-color: red;
+    height: 20px;
+    width: 800px;
+    clear: both;
+}

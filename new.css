@@ -1,0 +1,15 @@
+article :first-child {
+    color: blue;
+}
+
+article:before {
+    content:url("ko.jpg")
+}
+
+li {
+    display: inline-block;
+    background: cornflowerblue;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
